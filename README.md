@@ -1,8 +1,9 @@
-## Hi there 👋
-
+MEU NOME É MELISSA PRADO 💜
+ESTOU ESTUDANDO NO ALURA 
+ESTOU DESENVOLVENDO EM JAVASCRIPT 
+UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÃO E COMPARTILHAMENTO DE PROJETOS 
 <!--
 **MELISSAPRA3S2024/MELISSAPRA3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
